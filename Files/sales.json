@@ -1,5 +1,12 @@
-{
-  "Id": 1,
-  "Product": "Coral Sand N1",
-  "Price": 180.00
-}
+[
+  {
+    "Id": 1,
+    "Product": "Coral Sand N1",
+    "Price": 180.00
+  },
+  {
+    "Id": 2,
+    "Product": "Samsung Evo 890 Pro 1TB",
+    "Price": 1148.00
+  }
+]
