@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace Nuget_Serializar_e_Atributos_CSharp.Models
 {
@@ -16,7 +17,10 @@ namespace Nuget_Serializar_e_Atributos_CSharp.Models
         }
 
         public int Id { get; set; }
+
+        [JsonProperty("Product_Name")] // attribute
         public string Product { get; set; }
+
         public decimal Price { get; set; }
         public DateTime SalesDate { get; set; }
     }

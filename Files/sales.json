@@ -1,13 +1,13 @@
 [
   {
     "Id": 1,
-    "Product": "Coral Sand N1",
+    "Product_Name": "Coral Sand N1",
     "Price": 180.00,
     "SalesDate": "2024-04-23T02:19:27.8360947-03:00"
   },
   {
     "Id": 2,
-    "Product": "Samsung Evo 890 Pro 1TB",
+    "Product_Name": "Samsung Evo 890 Pro 1TB",
     "Price": 1148.00,
     "SalesDate": "2024-04-23T02:19:27.8360947-03:00"
   }
